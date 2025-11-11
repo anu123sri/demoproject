@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 PAGE 2 BRANCH
 hii
 manu
 shwetha
 shravs
 manasa
+=======
+dev BRANCH
+hii
+ashmitha
+anu
+sahaja
+>>>>>>> dev
